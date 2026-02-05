@@ -1,0 +1,91 @@
+2024-09-18 15:27:31.8819 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-09-18 15:28:32.8736 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-09-18 15:28:41.6123 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-09-18 15:32:17.5171 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-09-18 15:35:20.5402 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-09-18 15:44:37.7317 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-09-18 15:44:46.8344 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-09-18 16:08:15.2106 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-09-18 16:08:24.3707 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-09-18 16:11:59.9303 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-09-18 16:12:10.8074 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-09-18 16:17:05.9406 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-09-18 16:25:14.5812 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-09-18 16:41:53.7999 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-09-18 16:42:14.4991 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-10-03 13:46:08.1398 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-10-03 13:46:30.7365 Error Failed to start FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at NLog.Internal.MultiFileWatcher.TryAddWatch(String fileName, String directory, String fileFilter)
+2024-10-29 13:54:42.4469 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2024-11-06 12:17:46.3743 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2024-11-06 12:29:46.4072 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2024-11-06 12:33:00.6655 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2024-11-06 12:38:45.4600 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2024-11-06 12:40:13.6874 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2024-11-06 12:43:47.3571 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2024-11-07 11:36:22.7921 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2024-11-07 11:36:48.8164 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2024-11-14 16:22:35.4656 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2025-01-21 13:14:18.6766 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2025-01-23 17:34:18.2157 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2025-02-06 11:38:14.1943 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2025-02-06 11:38:31.3588 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2025-02-12 14:38:14.6119 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
+2025-02-25 18:21:28.8463 Warn Error from FileSystemWatcher with file-filter 'nlog.config' in directory: /home/jhuertas/Documentos/GITLAB/consultas-api/CODIGO/ConsultasAPI Exception: System.IO.IOException: The configured user limit (131070) on the number of inotify watches has been reached, or the operating system failed to allocate a required resource.
